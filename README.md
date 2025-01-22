@@ -19,9 +19,19 @@ Hi, I'm [Humayun Ahmad Rajib!](https://humayun-ahmad.github.io/), a Software Eng
 
 - 👨🏽‍💻 I’m currently working as a Software Engineer Trainee AI at BJIT;
 - 🌱 I’m currently learning Machine Learning; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about: `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Linux based OS`, `Python`, `MLOps`;
 - 📫 How to reach me: [@Humayun Ahmad Rajib](https://humayun-ahmad.github.io/);
 - 📝[My Resume](https://drive.google.com/file/d/17tUSJEze6ZFoOgkgr4xm8Xs1kpzAjpkR/view?usp=sharing);
+- ```
+  __SKILS__ = {
+  "Language": ["Python", "Bash", "C/C++", "Rust", "SQL"],
+  "Dev Tools": ["Git", "Kubernetes", "Docker", "Github Action", "DVC", "Linux", "Jira", "Lense", "ArgoCD", "Jenkins",],
+  "ML/DL": ["TensorFlow", "PyTorch", "Keras", "SpaCy", "Scikit-learn"],
+  "Web": ["Flask", "Django", "FastAPI", "Substrate"],
+  "DB": ["MySQL", "SQLite", "SQLAlchemy"],
+  "Others": ["Qt C++", "PyQt", "LaTex", "GCP", "AWS"],
+  };
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humayun-ahmad&show_icons=true&locale=en&layout=compact" alt="humayun-ahmad" /></p>
 
