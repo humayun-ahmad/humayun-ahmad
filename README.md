@@ -11,13 +11,13 @@
 
 <br />
 
-Hi, I'm [Humayun Ahmad Rajib!](https://humayun-ahmad.github.io/), a Software Engineer Trainee AI 🚀 from Bangladesh.
+Hi, I'm [Humayun Ahmad Rajib!](https://humayun-ahmad.github.io/), a Software Engineer AI 🚀 from Bangladesh.
 
 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer Trainee AI at BJIT;
+- 👨🏽‍💻 I’m currently working as a Software Engineer AI at BJIT;
 - 🌱 I’m currently learning Machine Learning; 
 - 💬 Ask me about: `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Linux based OS`, `Python`, `MLOps`;
 - 📫 How to reach me: [@Humayun Ahmad Rajib](https://humayun-ahmad.github.io/);
